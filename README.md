@@ -29,8 +29,8 @@ A secure file encryption system implementing hybrid encryption (RSA + AES) with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hybrid-encryption.git
-cd hybrid-encryption
+git clone https://github.com/hothephuc/Hybrid_Encryption_Crytodome_Implementation
+cd Hybrid_Encryption_Crytodome_Implementation
 
 # Install required packages
 pip install pycryptodome
